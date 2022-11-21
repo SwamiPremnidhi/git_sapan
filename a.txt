@@ -1,3 +1,4 @@
 swami
 nlknkll
 prem
+server1
